@@ -100,6 +100,3 @@ Once your MySQL setup is complete, you can run the following SQL queries to anal
 ## Conclusion
 This project showcases the process of setting up a MySQL database, running SQL queries for data analysis, and visualizing insights using Power BI. By following the steps outlined above, you will be able to replicate the analysis and gain insights into the sales data.
 
----
-
-This format will make it easy for anyone to understand the steps required to set up and execute the project. The structure is clear, and each section is divided logically for ease of navigation.
