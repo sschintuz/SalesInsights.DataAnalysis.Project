@@ -1,4 +1,4 @@
-# Sales Insights Power BI Project
+# Sales Insights Data Analysis Project
 
 ## Project Overview
 This project involves analyzing sales data using SQL and Power BI. The goal is to extract meaningful insights from the sales transactions data, focusing on various metrics such as customer records, market-specific transactions, revenue, and more.
